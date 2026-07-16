@@ -8,6 +8,9 @@ The project included structural-system selection, gravity and lateral load calcu
 
 Both buildings were designed in accordance with applicable Iranian structural codes and standards.
 
+<img width="1672" height="941" alt="ChatGPT Image Jul 16, 2026, 09_19_59 AM" src="https://github.com/user-attachments/assets/27dbe03a-85e0-4404-a902-0b7fd5399591" />
+
+
 ## Project Scope
 
 ### Reinforced-Concrete Building
